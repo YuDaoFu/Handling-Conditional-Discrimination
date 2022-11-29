@@ -4,6 +4,14 @@
 
 The idea is based on the paper Handling Conditional Discrimination
 
+
+```
+proj/
+├── data/COMPAS dataset
+├── doc/jupyter notebook
+└── paper/Handling Conditional Discrimination
+```
+
 ## Dataset 
 COMPAS dataset (Correctional Offender Management Profiling for
 Alternative Sanctions)
